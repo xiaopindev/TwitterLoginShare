@@ -1,0 +1,15 @@
+platform:ios, '9.0'
+
+target 'TwitterLoginShareExample' do
+
+#Facebook SDK
+pod 'FBSDKCoreKit'
+pod 'FBSDKLoginKit'
+pod 'FBSDKShareKit'
+pod 'FBSDKMessengerShareKit'
+
+pod 'TwitterKit'
+
+pod 'SDWebImage'
+
+end
